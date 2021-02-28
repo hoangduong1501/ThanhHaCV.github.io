@@ -1,0 +1,29 @@
+.background-contain{
+    background-color: aqua !important;
+}
+.background-left{
+    background-color: #f8f8f8;
+    width: 25%;
+}
+.background-right{
+    background-color: #FCFCFC;
+    width: 75%;
+}
+.image-size{
+    width: 80%;
+
+}
+.name-text{
+    text-transform: uppercase;
+    font-size: xxx-large;
+    margin-left: 10%;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.taarget-text{
+    font-size: x-large;
+    margin-left: 10%;
+}
+/* customize border-success */
+.border-success{
+    border-color: #28a74547 !important;
+}

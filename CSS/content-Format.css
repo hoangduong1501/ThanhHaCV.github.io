@@ -1,0 +1,170 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Slab&display=swap');
+
+
+.ui-page{
+    background-color: #43b460;
+    /* background-image: linear-gradient(to right,#43b460, rgba(26, 134, 53, 0.651)); */
+}
+
+.ui-content{
+    margin: 30px 50px;
+    border-radius: 30px;
+    background-color: #fff;
+    height: 925px;
+}
+
+/*  */
+/* infor */
+.form-infor{
+    background-color: #f5f8f9;
+    width: 26%;
+    border-radius: 30px;
+    height: 925px;
+}
+
+.detail-infor{
+    /* background-color: cornsilk; */
+    height: 875px;
+    margin: 25px;
+    padding-top: 20px;
+}
+
+.text-username{
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+}
+
+.tag-infor{
+    /* background-color: darkcyan; */
+    font-family: 'Roboto Slab', serif;
+    color: #44566C;
+}
+
+.candidate-type{
+    font-size: 14px;
+    background-color: #E9EDF0;
+    color: #44566C;
+    margin: 0 22px;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.avatar-infor{
+    width: 90%;
+    border-radius: 30px;
+    /* border-style: dashed;
+    border-color: cadetblue;
+    border-width: 1px; */
+}
+
+.item-list{
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.btn-custom{
+    height: 40px;
+    width: 40px;
+    margin: 0 5px;
+}
+
+.relative-custom{
+    margin-top: 200px;
+    position: relative;
+    height: 100px;
+}
+
+.fixed-custom{
+    height: 30px;
+    line-height: 30px;
+    background: red;
+    color: #fff;
+    position: fixed;
+}
+
+#list-infor{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+/*  */
+/* content */
+.form-content{
+    background-color: #fff;
+    width: 74%;
+    height: 925px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.detal-content{
+    background-color: burlywood;
+}
+
+.content-menu{
+    /* background-color: beige; */
+    margin-top: 30px;
+    font-size: 20;    
+    font-family: 'Lobster', cursive;
+}
+
+.btn{
+    border-width: 0 !important;
+}
+
+.item-menu{
+    border-radius: 30px;
+    margin-left: 40px;
+    color: #44566C;
+    border-color: #44566C;
+}
+
+/* .item-menu:hover{
+    background-color: #fff !important;
+    color:  #ce2b66 !important;
+}
+
+.active{
+    background-color: #ce2b66 !important;
+    border-color:  #ce2b66 !important;
+} */
+
+.cv-content{
+    font-family: 'Roboto Slab', serif;
+    color: #44566C;
+    /* background-color: azure; */
+    margin: 30px 20px 0px 20px;
+}
+
+.icon-custom{
+    width: 30px;
+    margin: 0 10px;
+}
+
+.head-content{
+    margin: 30px 0 0 0;
+}
+
+.sub-content{
+    margin: 5px 30px;
+}
+
+.school-name{
+    margin: 5px 50px;
+}
+
+#muc_tieu{
+    list-style-image: url(../Images/crosshair.png);
+}
+
+#hoc_van{
+    list-style-image: url(../Images/feather.png);
+}
+
+#so_thich{
+    list-style-image: url(../Images/feather.png);
+}
