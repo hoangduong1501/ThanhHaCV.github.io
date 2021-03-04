@@ -137,7 +137,7 @@
     font-family: 'Roboto Slab', serif;
     color: #44566C;
     /* background-color: azure; */
-    margin: 30px 20px 0px 20px;
+    margin: 30px 50px 30px 20px;
 }
 
 .icon-custom{
@@ -147,6 +147,7 @@
 
 .head-content{
     margin: 30px 0 0 0;
+    color: #28a745;
 }
 
 .sub-content{
@@ -157,14 +158,10 @@
     margin: 5px 50px;
 }
 
-#muc_tieu{
+.ul-custom{
     list-style-image: url(../Images/crosshair.png);
-}
+} 
 
-#hoc_van{
-    list-style-image: url(../Images/feather.png);
-}
-
-#so_thich{
+#muc_tieu, #hoc_van, #so_thich, #moitruong_phattrien, #cong_nghe{
     list-style-image: url(../Images/feather.png);
 }
