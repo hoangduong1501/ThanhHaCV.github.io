@@ -29,7 +29,7 @@ function ThongTin(){
             +'<h4 class="head-content">'
             +'<img class="icon-custom" src="Images/dart.svg" alt="">Mục tiêu nghề nghiệp'
             +'</h4>'
-            +'<ul>'
+            +'<ul id="ul-custom">'
             +'<li class="sub-content">Mong muốn được tham gia thực tập tại Công ty.</li>'
             +'<li class="sub-content">Rèn luyện kỹ năng và học hỏi kinh nghiệm trong thời gian tới.</li>'
             +'<li class="sub-content">Cố gắng phấn đấu hết mình để có cơ hội trở thành nhân viên chính thức của công ty.</li>'
