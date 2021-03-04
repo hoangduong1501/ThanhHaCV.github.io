@@ -126,7 +126,7 @@ function KyNang(){
             +'<img class="icon-custom" src="Images/piechart.svg" alt="">Kỹ năng làm việc'
             +'</h4>'
             +'<ul>'
-            +'<li class="sub-content">Làm việc nhóm, khả năng tương tác.</li>'
+            +'<li class="sub-content">LLàm việc nhóm, khả năng tương tác.</li>'
             +'<li class="sub-content">Khả năng tự giải quyết vấn đề.</li>'
             +'<li class="sub-content">Lắng nghe góp ý.</li>'
             +'</ul>'
