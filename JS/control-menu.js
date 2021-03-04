@@ -92,7 +92,7 @@ function KinhNghiem(){
             +'<ul class="timeline">'
             +'<li>'
             +'<a target="_blank" href="https://datvietsoftware.com.vn/">Công ty TNHH Công nghệ & Dịch vụ Đất Việt</a>'
-            +'<p class="item-timeline" style="color: #000;" >(1010/2020 - hiện tại)</p>'
+            +'<p class="item-timeline" style="color: #000;" >(10/10/2020 - hiện tại)</p>'
             +'<p class="item-timeline">Chức vụ: Nhân viên lập trình phần mềm.</p>'
             +'<p class="item-timeline">Dự án: Phần mềm quản lý UTC2, Phần mềm quản lý công ty TNHH Nhân Văn.</p>'
             +'<p class="item-timeline">Công việc: Bổ sung chức năng mới theo yêu cầu khách hàng, sửa lỗi,...</p> '
