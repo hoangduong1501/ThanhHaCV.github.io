@@ -92,8 +92,9 @@ function KinhNghiem(){
             +'<ul class="timeline">'
             +'<li>'
             +'<a target="_blank" href="https://datvietsoftware.com.vn/">Công ty TNHH Công nghệ & Dịch vụ Đất Việt</a>'
-            +'<p style="color: #000;" class="item-timeline">(10/10/2020 - hiện tại)</p>'
-            +'<p class="item-timeline">Chức vụ: Nhân viên lập trình phần mềm.</p>'
+            +'<p style="color: #000;" class="item-timeline">(10/10/2020 - 02/03/2021)</p>'
+            +'<p class="item-timeline">Chức vụ: Nhân viên thực tập.</p>'
+            +'<p class="item-timeline">Công nghệ sử dụng: WPF, SQL Server, Oracle.</p>'
             +'<p class="item-timeline">Dự án: Phần mềm quản lý UTC2, Phần mềm quản lý công ty TNHH Nhân Văn.</p>'
             +'<p class="item-timeline">Công việc: Bổ sung chức năng mới theo yêu cầu khách hàng, sửa lỗi,...</p> '
             +'</li>'
@@ -126,7 +127,7 @@ function KyNang(){
             +'<img class="icon-custom" src="Images/piechart.svg" alt="">Kỹ năng làm việc'
             +'</h4>'
             +'<ul>'
-            +'<li class="sub-content">LLàm việc nhóm, khả năng tương tác.</li>'
+            +'<li class="sub-content">Làm việc nhóm, khả năng tương tác.</li>'
             +'<li class="sub-content">Khả năng tự giải quyết vấn đề.</li>'
             +'<li class="sub-content">Lắng nghe góp ý.</li>'
             +'</ul>'
@@ -134,5 +135,20 @@ function KyNang(){
 }
 
 function LienHe(){
-    return 'lien he';
+    // // return 'lien he';
+    // // $.ajax({
+    // //     URL: 'ThongTin.html',
+    // //     type: 'GET',
+    // //     dataType: 'html',
+    // //     success: function(data){
+    // //         alert('OK');
+    // //     },
+    // //     error: function(){
+    // //         alert("Fail");
+    // //     }
+    // // });
+    // $.get('ThongTin.html', function(result){
+    //     var a = result;
+    //     alert(result);
+    // });
 }
